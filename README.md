@@ -1,5 +1,5 @@
 # denz14
-kontol
+
 git clone https://github.com/denzg14/denz14
 
 cd denz14
